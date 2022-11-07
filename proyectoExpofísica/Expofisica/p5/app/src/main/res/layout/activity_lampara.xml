@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".Lampara">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="119dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginEnd="148dp"
+        android:text="LAMPARA MAGICA"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="92dp"
+        android:layout_height="88dp"
+        app:srcCompat="?attr/colorError"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="90dp"
+        android:layout_height="84dp"
+        app:srcCompat="@color/colorPrimary"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="92dp"
+        android:layout_height="82dp"
+        app:srcCompat="@color/colorAccent"
+        tools:layout_editor_absoluteX="248dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="94dp"
+        android:layout_height="84dp"
+        app:srcCompat="@color/colorPrimar"
+        tools:layout_editor_absoluteX="246dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        app:srcCompat="@android:color/holo_purple"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="94dp"
+        android:layout_height="89dp"
+        app:srcCompat="@color/colorAccen"
+        tools:layout_editor_absoluteX="246dp"
+        tools:layout_editor_absoluteY="409dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

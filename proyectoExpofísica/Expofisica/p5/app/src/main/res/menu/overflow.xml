@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemCasa"
+        android:title="Control" />
+    <item
+        android:id="@+id/itemd"
+        android:title="Datos de mi casa" />
+    <item
+        android:id="@+id/itemEstado"
+        android:title="Estado de ánimo" />
+    <item
+        android:id="@+id/itemDesconectar"
+        android:title="Desconectar" />
+    <item
+        android:id="@+id/itemInicio"
+        android:title="Salir" />
+</menu>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".Estado">
+
+    <TextView
+        android:id="@+id/idControl3"
+        android:layout_width="227dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="92dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="92dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="¿CÓMO ESTÁS?"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:id="@+id/bFeliz"
+
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="148dp"
+        android:layout_marginEnd="12dp"
+        android:clickable="true"
+        android:onClick="happy"
+        android:src="@drawable/feliz" />
+
+    <ImageView
+        android:id="@+id/picaron"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="370dp"
+        android:layout_marginEnd="55dp"
+        android:onClick="picar"
+        android:src="@drawable/pica" />
+
+    <ImageView
+        android:id="@+id/bwara"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="370dp"
+        android:onClick="wara"
+        android:src="@drawable/waracha" />
+
+    <ImageView
+        android:id="@+id/bjeje"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="245dp"
+        android:layout_marginEnd="170dp"
+        android:onClick="jeje"
+        android:src="@drawable/bn" />
+
+    <ImageView
+        android:id="@+id/button2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="148dp"
+        android:layout_marginEnd="55dp"
+        android:layout_marginBottom="104dp"
+        android:onClick="enamorado"
+        android:src="@drawable/enamorado" />
+
+    <Button
+        android:id="@+id/stop"
+        android:layout_width="165dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="123dp"
+        android:layout_marginEnd="123dp"
+        android:layout_marginBottom="7dp"
+        android:gravity="center"
+        android:onClick="stopButtom"
+        android:text="Detener"
+        android:textSize="20dp" />
+
+</RelativeLayout>
