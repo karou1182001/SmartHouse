@@ -28,7 +28,12 @@ The system works through **Bluetooth communication** between the Android applica
 - 🎯 Designed to **support elderly people and individuals with disabilities**  
 - 🤝 A true **collaborative effort** across Software, Electronics, Electrical, and Civil Engineering
 
-  ![Award](images/award.jpeg)
+### 📰 Press Coverage
+Our project was featured in the official news article by Universidad del Norte:  
+
+<img src="images/award.jpeg" alt="Award" width="400"/>
+
+👉 [Read the article Geo Expo Física](https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica)
 
 ---
 
@@ -54,13 +59,9 @@ The system works through **Bluetooth communication** between the Android applica
 ---
 
 ## 🎥 Demo Video
-[![Watch the video]](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
+[![Watch the video](images/demo.png)](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
 
-*(Click the image above to watch the demo e)*
-
-## 📰 Press Coverage
-Our project was featured in the official news article by Universidad del Norte:  
-👉 [Read the article Geo Expo Física](https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica)
+*(Click the image above to watch the demo )*
 
 ---
 
