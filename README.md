@@ -1,7 +1,7 @@
 # 🏡 Smart House for Accessibility
 
 A large-scale **Smart House project** controlled via an **Android mobile application**.  
-This project was developed in **Android Studio** by first-year **Systems Engineering students** as part of an academic competition, where it won **1st place**.  
+This project was developed in **Android Studio** by first-year **Software Engineering students** as part of an academic competition, where it won **1st place**.  
 
 ---
 
