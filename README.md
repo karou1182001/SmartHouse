@@ -26,7 +26,9 @@ The system works through **Bluetooth communication** between the Android applica
 ## 🏆 Achievements
 - 🥇 **First Place** in the competition for innovation and social impact  
 - 🎯 Designed to **support elderly people and individuals with disabilities**  
-- 🤝 A true **collaborative effort** across Software, Electronics, Electrical, and Civil Engineering  
+- 🤝 A true **collaborative effort** across Software, Electronics, Electrical, and Civil Engineering
+
+  ![Award](images/award.jpeg)
 
 ---
 
@@ -47,12 +49,12 @@ The system works through **Bluetooth communication** between the Android applica
 ![House Image](images/house_photo.png)
 
 ### Team
-![Team Photo](images/team_photo.png)
+![Team Photo](images/team_photo.jpg)
 
 ---
 
 ## 🎥 Demo Video
-[![Watch the video](images/video_thumbnail.png)](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
+[![Watch the video]](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
 
 *(Click the image above to watch the demo e)*
 
