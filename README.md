@@ -62,6 +62,7 @@ Our project was featured in the official news article by Universidad del Norte:
 <a href="https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn" target="_blank">
   <img src="images/demo.png" alt="Watch the video" width="500"/>
 </a>
+
 *(Click the image above to watch the demo)*
 
 ---
