@@ -33,7 +33,7 @@ Our project was featured in the official news article by Universidad del Norte:
 
 <img src="images/award.jpeg" alt="Award" width="400"/>
 
-👉 [Read the article Geo Expo Física](https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica)
+👉 <a href="https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica" target="_blank">Read the article Geo Expo Física</a>
 
 ---
 
@@ -59,9 +59,10 @@ Our project was featured in the official news article by Universidad del Norte:
 ---
 
 ## 🎥 Demo Video
-[![Watch the video](images/demo.png)](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
-
-*(Click the image above to watch the demo )*
+<a href="https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn" target="_blank">
+  <img src="images/demo.png" alt="Watch the video" width="500"/>
+</a>
+*(Click the image above to watch the demo)*
 
 ---
 
