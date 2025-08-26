@@ -33,7 +33,7 @@ Our project was featured in the official news article by Universidad del Norte:
 
 <img src="images/award.jpeg" alt="Award" width="400"/>
 
-👉 <a href="https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica" target="_blank">Read the article Geo Expo Física</a>
+👉 <a href="https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica" target="_blank">Read the article Geo Expo Fisica</a>
 
 ---
 
