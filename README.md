@@ -54,7 +54,11 @@ The system works through **Bluetooth communication** between the Android applica
 ## 🎥 Demo Video
 [![Watch the video](images/video_thumbnail.png)](https://photos.google.com/share/AF1QipOi_dc02SX5VpeIM3Fy7Q5D9TfwEFtcJOW1XGCFwudfA1b_8qUb6G3Fsh9mjB1TEg?key=Ykw1c3dtQloxN2drQk1DYXVQWF92LUNscVJacWxn)
 
-*(Click the image above to watch the demo on YouTube)*
+*(Click the image above to watch the demo e)*
+
+## 📰 Press Coverage
+Our project was featured in the official news article by Universidad del Norte:  
+👉 [Read the article Geo Expo Física](https://www.uninorte.edu.co/web/grupo-prensa/w/los-proyectos-galardonados-de-la-septima-edicion-de-geo-expo-fisica)
 
 ---
 
